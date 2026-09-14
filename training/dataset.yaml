@@ -1,0 +1,12 @@
+path: ./plate_dataset
+train: images/train
+val: images/val
+
+names:
+  0: license_plate
+
+# Recommended layout after labeling:
+# training/plate_dataset/images/train
+# training/plate_dataset/images/val
+# training/plate_dataset/labels/train
+# training/plate_dataset/labels/val
